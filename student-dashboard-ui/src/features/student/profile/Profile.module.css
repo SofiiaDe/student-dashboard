@@ -1,0 +1,25 @@
+.formParent {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
